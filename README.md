@@ -24,7 +24,9 @@ Used various CMS to blog over the years (one for each hobby). I also like to imp
 
 I primarily use Git to control my files and for backup and restoration.
 
-Current using Windows 10 and Debian for when things need to get done - I'm a fan of stability and security. My phone is usually put out of sight and out of mind, unless I'm outside in the elements then I just scribble and plan most things in a small and plain notebook.
+Current using Windows 10 and Debian for when things need to get done - I'm a fan of stability and security. 
+
+I just scribble and plan most things in a small and plain notebook and my phone is usually placed out of sight and out of mind.
 
 I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
 
