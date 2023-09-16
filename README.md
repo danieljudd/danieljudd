@@ -12,23 +12,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Soygraph
+# Stats
 ![danieljudd's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljudd&count_private=true&show_icons=true&locale=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljudd&layout=compact&hide=c,roff,makefile)
 
-## Current undertaking(s):
+#  My workflow
+I'm working on smaller projects and courses right now until I find a new direction to pursue, please send me anything free and interesting to look at (programming, practical, insights, courses, books, jobs).
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Shell 
-Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)
-![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)
+Used various CMS to blog over the years (one for each hobby). I also like to implement my own themes and functions.
+
+I primarily use Git to control my files and for backup and restoration.
+
+Current using Windows 10 and Debian for when things need to get done - I'm a fan of stability and security. My phone is usually put out of sight and out of mind, unless I'm outside in the elements then I just scribble and plan most things in a small and plain notebook.
+
+I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
+
+🤔
