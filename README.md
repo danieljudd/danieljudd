@@ -26,7 +26,7 @@ I primarily use Git to control my files and for backup and restoration.
 
 Current using Windows 10 and Debian for when things need to get done - I'm a fan of stability and security. 
 
-I just scribble and plan most things in a small and plain notebook and my phone is usually placed out of sight and out of mind.
+Usually daily, I like to scribble and plan the most productive things in a small and plain notebook.
 
 I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
 
