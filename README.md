@@ -31,3 +31,7 @@ Usually daily, I like to scribble and plan the most productive things in a small
 I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
 
 🤔
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P0V8PGX)
+
+<a href="https://www.buymeacoffee.com/danieljudd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
