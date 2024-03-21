@@ -30,7 +30,7 @@ Usually daily, I like to scribble and plan the most productive things in a small
 
 I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
 
-🤔
+My work is posted here and found on my site: https://danieljudd.xyz/
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P0V8PGX)
 
