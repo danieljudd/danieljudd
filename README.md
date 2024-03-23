@@ -28,9 +28,9 @@ Current using Windows 10 and Debian for when things need to get done - I'm a fan
 
 Usually daily, I like to scribble and plan the most productive things in a small and plain notebook.
 
-I have no preferred IDE, but I like debuggers that work well and remains in my set PATH variable.
+I often use Visual Studio Code, and I like debuggers that work well and remains in my set PATH variable.
 
-My work is posted here and found on my site: https://danieljudd.xyz/
+My work is posted here and found on my [site](https://danieljudd.xyz/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P0V8PGX)
 
