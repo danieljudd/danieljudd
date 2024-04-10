@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 -->
 
 # Stats
-![danieljudd's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljudd&count_private=true&show_icons=true&locale=en)
+![danieljudd's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljudd&count_private=true&show_icons=true&locale=en&theme=cobalt2)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljudd&layout=compact&hide=c,roff,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljudd&layout=compact&hide=c,roff,makefile&theme=cobalt2)
 
 #  My workflow
 I'm working on smaller projects and courses right now until I find a new direction to pursue, please send me anything free and interesting to look at (programming, practical, insights, courses, books, jobs).
