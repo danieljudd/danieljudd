@@ -18,17 +18,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljudd&layout=compact&hide=c,roff,makefile&theme=cobalt2)
 
 #  My workflow
-I'm working on smaller projects and courses right now until I find a new direction to pursue, please send me anything free and interesting to look at (programming, practical, insights, courses, books, jobs).
-
-Used various CMS to blog over the years (one for each hobby). I also like to implement my own themes and functions.
-
-I primarily use Git to control my files and for backup and restoration.
-
-Current using Windows 10 and Debian for when things need to get done - I'm a fan of stability and security. 
-
-Usually daily, I like to scribble and plan the most productive things in a small and plain notebook.
-
-I often use Visual Studio Code, and I like debuggers that work well and remains in my set PATH variable.
+Currently working in the latest and greatest of operating systems, design tools, and IDEs. These include:
+- VSCode
+- Visual Studio
+- Canva
+- Markdown (Bear on iOS)
+- Recommend me a reminder application
 
 My work is posted here and found on my [site](https://danieljudd.xyz/)
 
